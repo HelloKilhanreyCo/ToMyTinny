@@ -5,7 +5,7 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Martinix 'Tinny' Pagon",
+    valentineName: "Martinii 'Tinny' Pagon",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
@@ -57,11 +57,11 @@ const CONFIG = {
     // Color scheme for the website
     // Use https://colorhunt.co or https://coolors.co to find beautiful color combinations
     colors: {
-        backgroundStart: "#33a1fd",      // Gradient start (try pastel colors for a soft look)
-        backgroundEnd: "#29e7cd",        // Gradient end (should complement backgroundStart)
-        buttonBackground: "#ff47da",     // Button color (should stand out against the background)
-        buttonHover: "#254e70",          // Button hover color (slightly lighter than buttonBackground)
-        textColor: "#fffafb"             // Text color (make sure it's readable!)
+        backgroundStart: "#BFECFF",      // Gradient start (try pastel colors for a soft look)
+        backgroundEnd: "#CDC1FF",        // Gradient end (should complement backgroundStart)
+        buttonBackground: "#FFF6E3",     // Button color (should stand out against the background)
+        buttonHover: "#FFF6E3",          // Button hover color (slightly lighter than buttonBackground)
+        textColor: "#CDC1FF"             // Text color (make sure it's readable!)
     },
 
     // Animation settings
