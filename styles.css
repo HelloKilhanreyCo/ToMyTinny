@@ -93,7 +93,7 @@ body {
     margin-top: 0;
     opacity: 0.2;
     transition: opacity 0.3s;
-    transform: scale(0.7);
+    transform: scale(1.7);
     z-index: 2;
     animation: subtle-hint 2s infinite alternate;
     animation-delay: 5s;
@@ -131,7 +131,7 @@ body {
 .slider {
     width: 100%;
     height: 25px;
-    background: linear-gradient(to right, #A63EC5, #CE49BF, #F190B7);
+    background: linear-gradient(to right, #A63EC5, #CE49BF, #BDF2D5);
     -webkit-appearance: none;
     appearance: none;
     outline: none;
@@ -196,7 +196,7 @@ body {
 }
 
 #extraLove {
-    color: #F0A8D0;
+    color: #BDF2D5;
     font-weight: bold;
     animation: bounce 0.5s infinite alternate;
     display: block;
@@ -256,7 +256,7 @@ body {
 }
 
 h1, h2 {
-    font-family: Arial, sans-serif;
+    font-family: proxima-nova, sans-serif;
     font-weight: 700;
 }
 
