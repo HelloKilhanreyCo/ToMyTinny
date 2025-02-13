@@ -1,11 +1,11 @@
 /* CSS Variables - Will be updated by JavaScript */
 :root {
     /* Colors */
-    --background-color-1: #ffafbd;
-    --background-color-2: #ffc3a0;
-    --button-color: #ff6b6b;
-    --button-hover: #ff8787;
-    --text-color: #ff4757;
+    --background-color-1: #F806CC;
+    --background-color-2: #F806CC;
+    --button-color: #A91079;
+    --button-hover: #570A57;
+    --text-color: #FBD6D2;
 
     /* Animations */
     --float-duration: 15s;
@@ -217,7 +217,7 @@ body {
 
 #loveValue {
     font-weight: bold;
-    color: #ff4757;
+    color: #570A57;
     font-size: 1.3em;
     transition: all 0.3s ease;
 }
@@ -261,7 +261,7 @@ h1, h2 {
 }
 
 h1 {
-    color: #F806CC;
+    color: #570A57;
     margin-bottom: 2rem;
 }
 
